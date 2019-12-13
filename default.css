@@ -77,7 +77,7 @@
 			form .submit
 			{
 				margin-top: 2em;
-				background: #67128F;
+				background: hsl(221, 97%, 61%);
 				border-radius: 8px;
 				line-height: 1.5em;
 				font-size: 1.3em;
@@ -245,7 +245,7 @@
 		width: 60px;
 		height: 60px;
 		line-height: 60px;
-		background: #6C2A6A;
+		background: rgb(112, 2, 2);
 		border-radius: 30px;
 		text-align: center;
 	}
@@ -260,7 +260,7 @@
 		display: inline-block;
 		margin-top: 2em;
 		padding: 0.6em 1em;
-		background: #6C2A6A;
+		background: rgb(248, 61, 117);
 		border-radius: 4px;
 		line-height: 1.8em;
 		text-decoration: none;
@@ -342,7 +342,7 @@
 	
 	#logo h1 a
 	{
-		color: #6C2A6A;
+		color: rgb(37, 113, 255);
 	}
 
 	#logo a
@@ -368,7 +368,7 @@
 		display: inline-block;
 		margin-bottom: 2em;
 		padding: 1em;
-		background: #6C2A6A;
+		background: rgb(0, 0, 0);
 		border-radius: 50%;
 		font-size: 1.6em;
 		color: #FFF;
@@ -402,7 +402,6 @@
 		text-decoration: none;
 		font-size: 0.90em;
 		font-weight: 600;
-		text-transform: uppercase;
 		outline: 0;
 		color: #3C3C3C;
 	}
@@ -437,7 +436,7 @@
 
 	#wrapper2
 	{
-		background: #6C2A6A;
+		background: rgb(224, 83, 94);
 	}
 
 	#wrapper3
@@ -526,7 +525,6 @@
 	#footer .title .byline
 	{
 		letter-spacing: normal;
-		text-transform: capitalize;
 		font-size: 1.6em;
 		color: rgba(255,255,255,0.2);
 	}
