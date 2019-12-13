@@ -9,6 +9,7 @@ For the content, I choose an ASBL.
 
 If they love my work they can use it for their site for free.
 
-My spirit during this work was : _"When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."_ by : Confucius.
+My spirit during this work was : _"When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."_ by : Confucius. 
+Source from https://thatsthespir.it/
 
 ![GitHub Logo](/images/becode.png)
